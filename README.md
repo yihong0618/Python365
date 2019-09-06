@@ -18,3 +18,10 @@
   - Python读书--[Django企业开发实战day1](http://product.dangdang.com/26509799.html)
   - Python项目相关--[funNLP](https://github.com/fighting41love/funNLP)
   - Python之外--[大型互联网公司分布式ID方案总结](https://juejin.im/post/5d6fc8eff265da03ef7a324b?utm_source=gold_browser_extension)
+- [day2](days/day2/day2.md)--2019.09.06
+  - Python标准库--datetime
+  - Python好的文章--[Python WSGI初探](http://liaoph.com/python-wsgi/)
+  - [Python代码片段--flask-socketio](day2.py)
+  - Python读书--[Django企业开发实战day2](http://product.dangdang.com/26509799.html)
+  - Python项目相关--[iredis](https://github.com/laixintao/iredis)
+  - Python之外--[web前端学习指南](https://github.com/qianguyihao/Web)
