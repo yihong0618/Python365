@@ -32,10 +32,18 @@
   - Python读书--[Django企业开发实战day3](http://product.dangdang.com/26509799.html)
   - Python项目相关--[python 解析器中文翻译](https://github.com/chinesehuazhou/guido_blog_translation)
   - Python之外--[梁少峰的个人博客](https://github.com/youngwind/blog)
-- [day4][days/day4/day4.md)--2019.09.09
+- [day4](days/day4/day4.md)--2019.09.09
   - Python标准库--textwrap
   - Python好的文章--[Python实现简单的遗传算法](http://czrzchao.com/simpleGaByPython)
   - [Python代码片段](day4.py)
   - Python读书--[Django企业开发实战day4](http://product.dangdang.com/26509799.html)
   - Python项目相关--[python 解析器](http://qingyunha.github.io/taotao/)
   - Python之外--[如何想静静](https://yihui.name/cn/2019/07/inner-peace/)
+- [day5](days/day5/day5.md)--2019.09.10
+  - Python标准库--enum
+  - Python好的文章[python黑魔法描述符](https://www.jishuyiliu.com/archives/311.html)
+  - [Python代码片段](day5.py)
+  - Python读书--[Django企业开发实战day5](http://product.dangdang.com/26509799.html)
+  - Python框架相关--[Django常用配置](http://www.ziawang.com/article/169/)
+  - Python项目相关--[青岛大学平台](https://github.com/yihong0618/OnlineJudge)
+  - Python之外--[正则表达式你不会写](https://juejin.im/post/5b96a8e2e51d450e6a2de115)
