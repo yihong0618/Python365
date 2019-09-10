@@ -25,7 +25,7 @@
   - Python读书--[Django企业开发实战day2](http://product.dangdang.com/26509799.html)
   - Python项目相关--[iredis](https://github.com/laixintao/iredis)
   - Python之外--[web前端学习指南](https://github.com/qianguyihao/Web)
-- [day3](days/day3/day3.md)--2019.09.09
+- [day3](days/day3/day3.md)--2019.09.07
   - Python标准库--calendar
   - Python好的文章--[Python数据结构及算法](https://blog.laisky.com/p/algorithm/)
   - [Python代码片段](day3.py)
