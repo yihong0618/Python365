@@ -25,14 +25,14 @@
   - Python读书--[Django企业开发实战day2](http://product.dangdang.com/26509799.html)
   - Python项目相关--[iredis](https://github.com/laixintao/iredis)
   - Python之外--[web前端学习指南](https://github.com/qianguyihao/Web)
-- [day3](days/day3/day3.md)--2019.09.09
+- [day3](days/day3/day3.md)--2019.09.07
   - Python标准库--calendar
   - Python好的文章--[Python数据结构及算法](https://blog.laisky.com/p/algorithm/)
   - [Python代码片段](day3.py)
   - Python读书--[Django企业开发实战day3](http://product.dangdang.com/26509799.html)
   - Python项目相关--[python 解析器中文翻译](https://github.com/chinesehuazhou/guido_blog_translation)
   - Python之外--[梁少峰的个人博客](https://github.com/youngwind/blog)
-- [day4][days/day4/day4.md)--2019.09.09
+- [day4](days/day4/day4.md)--2019.09.09
   - Python标准库--textwrap
   - Python好的文章--[Python实现简单的遗传算法](http://czrzchao.com/simpleGaByPython)
   - [Python代码片段](day4.py)
