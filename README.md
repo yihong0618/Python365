@@ -41,7 +41,7 @@
   - Python之外--[如何想静静](https://yihui.name/cn/2019/07/inner-peace/)
 - [day5](days/day5/day5.md)--2019.09.10
   - Python标准库--enum
-  - Python好的文章[python黑魔法描述符](https://www.jishuyiliu.com/archives/311.html)
+  - Python好的文章--[python黑魔法描述符](https://www.jishuyiliu.com/archives/311.html)
   - [Python代码片段](day5.py)
   - Python读书--[Django企业开发实战day5](http://product.dangdang.com/26509799.html)
   - Python框架相关--[Django常用配置](http://www.ziawang.com/article/169/)
@@ -49,7 +49,7 @@
   - Python之外--[正则表达式你不会写](https://juejin.im/post/5b96a8e2e51d450e6a2de115)
 - [day6](days/day6/day6.md)--2019.09.12
   - Python标准库--pathlib
-  - Python好的文章[你应该使用pathlib代替os.path](https://www.dongwm.com/post/use-pathlib/)
+  - Python好的文章--[你应该使用pathlib代替os.path](https://www.dongwm.com/post/use-pathlib/)
   - [Python代码片段](day6.py)
   - Python读书--[Django企业开发实战day6](http://product.dangdang.com/26509799.html)
   - Python框架相关--[Django与wsgi.ref](http://www.ziawang.com/article/172/)
