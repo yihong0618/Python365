@@ -3,7 +3,7 @@
 - Python标准库--pathlib
 - Python好的文章[你应该使用pathlib代替os.path](https://www.dongwm.com/post/use-pathlib/)
 - [Python代码片段](day6.py)
-- Python读书--[Django企业开发实战day6](http://product.dangdang.com/26509799.html)
+- Python读书--[Django企业开发实战day6])
 - Python框架相关--[Django与wsgi.ref](http://www.ziawang.com/article/172/)
 - Python项目相关--[py12306](https://github.com/pjialin/py12306)
 - Python之外--[10分钟教会你看top](https://juejin.im/post/5d590126f265da03db0776b6?utm_source=gold_browser_extension)
