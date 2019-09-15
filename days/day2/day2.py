@@ -12,7 +12,7 @@ import docker
 async_mode = None
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'secret!'
+app.config["SECRET_KEY"] = "secret!"
 socketio = SocketIO(app, async_mode=async_mode)
 
 
@@ -22,14 +22,12 @@ FLAG = True
 
 
 def get_container(ip, container_id):
-    cli = docker.DockerClient(base_url= ip + ":2375")
+    cli = docker.DockerClient(base_url=ip + ":2375")
     try:
         container = cli.containers.get(container_id)
     except:
         container = None
     return container
-
-
 
 
 # 后台线程 产生数据，即刻推送至前端
@@ -48,36 +46,39 @@ def background_thread(ip, docker_id):
         for line in container.logs(tail=10, stream=True):
             if not line:
                 break
-            line = line.decode('utf-8')
+            line = line.decode("utf-8")
             if line not in queue:
                 queue.append(line)
 
-                socketio.emit('server_response',
-                            {'data': str(queue[-1]), 'count':count},
-                            namespace='/test')
+                socketio.emit(
+                    "server_response",
+                    {"data": str(queue[-1]), "count": count},
+                    namespace="/test",
+                )
     print("test")
 
-@app.route('/')
-def index():
-    return render_template('index.html', async_mode=socketio.async_mode)
 
+@app.route("/")
+def index():
+    return render_template("index.html", async_mode=socketio.async_mode)
 
 
 # 与前端建立 socket 连接后，启动后台线程
-@socketio.on('connect', namespace='/test')
+@socketio.on("connect", namespace="/test")
 def test_connect():
-    container_id = request.args.get('container_id', "")
-    ip = request.args.get('ip', "127.0.0.1")
+    container_id = request.args.get("container_id", "")
+    ip = request.args.get("ip", "127.0.0.1")
     global thread
     with thread_lock:
         # if thread is None:
         thread = socketio.start_background_task(background_thread, ip, container_id)
 
 
-@socketio.on('disconnect', namespace='/test')
+@socketio.on("disconnect", namespace="/test")
 def change_flag():
     thread.kill()
     FLAG = False
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     socketio.run(app, debug=True)

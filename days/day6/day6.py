@@ -1,6 +1,6 @@
 from pathlib import Path
 
-days_path = Path('days')
+days_path = Path("days")
 
 
 def gen_new_day(days_path):
@@ -15,7 +15,5 @@ def gen_new_day(days_path):
     day_new_path_py.touch()
 
 
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     gen_new_day(days_path)

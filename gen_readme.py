@@ -1,6 +1,7 @@
 from pathlib import Path
 from cn2an import an2cn
 from datetime import datetime
+import argparse
 
 DAYS_PATH = Path("days")
 
@@ -68,5 +69,13 @@ def add_readme_info(day):
             md.write("  " + info)
 
 
+parser = argparse.ArgumentParser(description="parser arg to different function")
+parser.add_argument("-g", "--gen")
+args = parser.parse_args()
+
+
 if __name__ == "__main__":
-    gen_new_day_dir(DAYS_PATH)
+    if args.gen:
+        add_readme_info(DAYS_PATH)
+    else:
+        gen_new_day_dir(DAYS_PATH)
