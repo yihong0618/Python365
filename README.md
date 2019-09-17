@@ -71,3 +71,12 @@
   - Python框架相关--[Django中的request请求](http://www.ziawang.com/article/175/)
   - Python项目相关--[Leetcode](https://github.com/liweiwei1419/LeetCode-Solution-Python)
   - Python之外--[程序员应该怎样提高自己](https://blog.codingnow.com/2019/07/top_programmer.html#comments)
+
+- [day9](days/day9/day9.md)--2019.09.17
+  - Python标准库--difflib
+  - Python好的文章[Python版本管理依赖的最终方案](https://linw1995.com/blog/Python-%E7%89%88%E6%9C%AC%E5%8F%8A%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86%E7%9A%84%E6%9C%80%E7%BB%88%E6%96%B9%E6%A1%88-pyenv-Pipenv/)
+  - [Python代码片段](day9.py)
+  - Python读书--[Python cookbook day2]()
+  - Python框架相关--[Django中的response](http://www.ziawang.com/article/176/)
+  - Python项目相关--[project-based-learning](https://github.com/tuvtran/project-based-learning)
+  - Python之外--[git的技巧](https://github.com/521xueweihan/git-tips)
