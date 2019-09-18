@@ -10,6 +10,32 @@
 
 365天坚持住的话真的是一笔挺大的财富，能完成的话对自己算是一个提升，完成不了的话也不过是互联网上一个无名小卒又一次失败的尝试，总之有勇气开始就已经是目的地的一半了，是吧。
 
+## 读书
+- [ ] 读完《Python Cookbook》
+- [ ] 重读《流畅的Python》
+- [ ] 重读《Python web开发》
+- [ ] 读《TDD Python》
+- [ ] 重读《Effective Python》
+- [ ] 读《Mastering Python Design Patterns》
+- [ ] 读《Cython》
+- [ ] 重读《深入理解Python特性》
+- [ ] 读《Django 文档》
+- [ ] 读[《Django REST framework API 指南》](https://github.com/jianshijiuyou/django-rest-framework-api-guide)
+- [ ] 重读《Python高性能编程》
+- [ ] 读《利用Python进行数据分析 2e》
+- [ ] 读《Python源码剖析》
+
+## 项目相关
+- [ ] [Python patterns](https://github.com/faif/python-patterns)
+- [ ] [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)
+- [ ] [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+- [ ] [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
+- [ ] [CPython-Internals](https://github.com/zpoint/CPython-Internals)
+- [ ] [wtfpython](https://github.com/satwikkansal/wtfpython)
+- [ ] [Web application from scratch](https://defn.io/2018/02/25/web-app-from-scratch-01/)
+- [ ] [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+- [ ] [Python实现的Python解释器](http://qingyunha.github.io/taotao/)
+
 ## Days
 - [day1](days/day1/day1.md)--2019.09.05
   - Python标准库--time
