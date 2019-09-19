@@ -106,3 +106,12 @@
   - Python框架相关--[Django中的response](http://www.ziawang.com/article/176/)
   - Python项目相关--[project-based-learning](https://github.com/tuvtran/project-based-learning)
   - Python之外--[git的技巧](https://github.com/521xueweihan/git-tips)
+
+- [day10](days/day10/day10.md)--2019.09.19
+  - Python标准库--re
+  - Python好的文章[python 的静态类型检查工具 mypy](https://blog.laisky.com/p/mypy/)
+  - [Python代码片段](day10.py)
+  - Python读书--Python cookbook day3
+  - Python框架相关--[Django路由系统](http://www.ziawang.com/article/179/)
+  - Python项目相关--[mkdoc](https://github.com/mkdocs/mkdocs)
+  - Python之外--[DarkSun的个人博客](http://blog.lujun9972.win/years/)
