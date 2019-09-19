@@ -61,7 +61,7 @@ def add_readme_info(day):
     day_path = Path(new_day, day_name + ".md")
 
     print(day_name, day_path, date_name)
-    with open("README.md", "a+") as md, open(day_path, "r") as day_md:
+    with open("README.md", "a+", encoding="utf-8") as md, open(day_path, "r", encoding="utf-8") as day_md:
         day_info = day_md.readlines()[2:9]
         md.write("\n")
         md.write(
