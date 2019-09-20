@@ -24,6 +24,7 @@
 - [ ] 重读《Python高性能编程》
 - [ ] 读《利用Python进行数据分析 2e》
 - [ ] 读《Python源码剖析》
+- [ ] [重读《one-python-craftsman》](https://github.com/piglei/one-python-craftsman)
 
 ## 项目相关
 - [ ] [Python patterns](https://github.com/faif/python-patterns)
@@ -115,3 +116,12 @@
   - Python框架相关--[Django路由系统](http://www.ziawang.com/article/179/)
   - Python项目相关--[mkdoc](https://github.com/mkdocs/mkdocs)
   - Python之外--[DarkSun的个人博客](http://blog.lujun9972.win/years/)
+
+- [day11](days/day11/day11.md)--2019.09.20
+  - Python标准库--queue
+  - Python好的文章[web-app-from-scratch-01](https://defn.io/2018/02/25/web-app-from-scratch-01/)
+  - [Python代码片段](day11.py)
+  - Python读书--python cookbook day4
+  - Python框架相关--[django admin路由系统源码剖析](http://www.ziawang.com/article/180/)
+  - Python项目相关--[将微信接收的文章自动解析同步到Bear](https://github.com/howie6879/w2b)
+  - Python之外--[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible#length)
