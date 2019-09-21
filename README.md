@@ -12,8 +12,8 @@
 
 ## 标准库
 
-- [ ] Text
-    - [ ] string — Text Constants and Templates
+- [x] Text--Done 2019.9.21
+    - [x] string — Text Constants and Templates
     - [x] textwrap — Formatting Text Paragraphs
     - [x] re — Regular Expressions
     - [x] difflib — Compare Sequences
