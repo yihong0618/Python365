@@ -287,3 +287,12 @@
   - Python框架相关--[django admin路由系统源码剖析](http://www.ziawang.com/article/180/)
   - Python项目相关--[将微信接收的文章自动解析同步到Bear](https://github.com/howie6879/w2b)
   - Python之外--[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible#length)
+
+- [day12](days/day12/day12.md)--2019.09.21
+  - Python标准库--string
+  - Python好的文章[Python格式化工具Black](https://leeweir.github.io/2018/07/20/Python%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%B7%A5%E5%85%B7Black/)
+  - [Python代码片段](day12.py)
+  - Python读书--python cookbook day5
+  - Python框架相关--[Django Rest framework流程](http://www.ziawang.com/article/302/)
+  - Python项目相关--[GadioVideo](https://github.com/rabbitism/GadioVideo)
+  - Python之外--[Docker容器化部署Python应用](https://zhuanlan.zhihu.com/p/71251233)
