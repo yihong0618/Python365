@@ -296,3 +296,12 @@
   - Python框架相关--[Django Rest framework流程](http://www.ziawang.com/article/302/)
   - Python项目相关--[GadioVideo](https://github.com/rabbitism/GadioVideo)
   - Python之外--[Docker容器化部署Python应用](https://zhuanlan.zhihu.com/p/71251233)
+
+- [day13](days/day13/day13.md)--2019.09.22
+  - Python标准库--fnmatch
+  - Python好的文章[Web开发简介系列](https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html)
+  - [Python代码片段](day13.py)
+  - Python读书--Python cookbook day7
+  - Python框架相关--[REST framework 认证流程源码分析](http://www.ziawang.com/article/303/)
+  - Python项目相关--[pdir2](https://github.com/laike9m/pdir2)
+  - Python之外--[重构读书笔记](http://www.wklken.me/posts/2017/06/17/refactoring-07.html)
