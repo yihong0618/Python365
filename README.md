@@ -47,7 +47,7 @@
     - [ ] os.path — Platform-independent Manipulation of Filenames
     - [x] pathlib — Filesystem Paths as Objects
     - [ ] glob — Filename Pattern Matching
-    - [ ] fnmatch — Unix-style Glob Pattern Matching
+    - [x] fnmatch — Unix-style Glob Pattern Matching
     - [ ] linecache — Read Text Files Efficiently
     - [ ] tempfile — Temporary File System Objects
     - [ ] shutil — High-level File Operations
