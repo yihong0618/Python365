@@ -31,9 +31,9 @@
 - [ ] Algorithms
     - [ ] functools — Tools for Manipulating Functions
     - [ ] itertools — Iterator Functions
-    - [ ] operator — Functional Interface to Built-in Operators
+    - [x] operator — Functional Interface to Built-in Operators
     - [ ] contextlib — Context Manager Utilities
-- [ ] Dates and Times
+- [x] Dates and Times
     - [x] time — Clock Time
     - [x] datetime — Date and Time Value Manipulation
     - [x] calendar — Work with Dates
@@ -305,3 +305,12 @@
   - Python框架相关--[REST framework 认证流程源码分析](http://www.ziawang.com/article/303/)
   - Python项目相关--[pdir2](https://github.com/laike9m/pdir2)
   - Python之外--[重构读书笔记](http://www.wklken.me/posts/2017/06/17/refactoring-07.html)
+
+- [day14](days/day14/day14.md)--2019.09.23
+  - Python标准库--operator
+  - Python好的文章[python 代码阅读和有趣的项目推荐](https://blog.kelu.org/tech/2017/07/28/python-opensource-intro.html)
+  - [Python代码片段](day14.py)
+  - Python读书--python cookbook day8
+  - Python框架相关--[Bottle源码-启动篇](https://blog.dreamfever.me/2017/03/20/bottleyuan-ma-qi-dong-pian/)
+  - Python项目相关--[bottle](https://github.com/bottlepy/bottle)
+  - Python之外--[深入理解 HTTP 协议](https://juejin.im/post/5ba65296f265da0ac8493503)
