@@ -26,7 +26,7 @@
     - [x] queue — Thread-Safe FIFO Implementation
     - [ ] struct — Binary Data Structures
     - [ ] weakref — Impermanent References to Objects
-    - [ ] copy — Duplicate Objects
+    - [x] copy — Duplicate Objects
     - [x] pprint — Pretty-Print Data Structures
 - [ ] Algorithms
     - [ ] functools — Tools for Manipulating Functions
@@ -187,6 +187,7 @@
 - [ ] 读《利用Python进行数据分析 2e》
 - [ ] 读《Python源码剖析》
 - [ ] [重读《one-python-craftsman》](https://github.com/piglei/one-python-craftsman)
+- [ ] [读Django设计模式与最佳实践](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
 ## 项目相关
 - [ ] [Python patterns](https://github.com/faif/python-patterns)
@@ -314,3 +315,12 @@
   - Python框架相关--[Bottle源码-启动篇](https://blog.dreamfever.me/2017/03/20/bottleyuan-ma-qi-dong-pian/)
   - Python项目相关--[bottle](https://github.com/bottlepy/bottle)
   - Python之外--[深入理解 HTTP 协议](https://juejin.im/post/5ba65296f265da0ac8493503)
+
+- [day15](days/day15/day15.md)--2019.09.24
+  - Python标准库--copy
+  - Python好的文章[Flask 中的 Context 初探](https://manjusaka.itscoder.com/posts/2018/02/23/something-about-flask-context/)
+  - [Python代码片段](day15.py)
+  - Python读书--Django设计模式与最佳实践 day1
+  - Python框架相关--[flask路由系统](http://www.ziawang.com/article/10/)
+  - Python项目相关--[c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started)
+  - Python之外--[补蛇者说](https://pythonhunter.org/)
