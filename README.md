@@ -324,3 +324,12 @@
   - Python框架相关--[flask路由系统](http://www.ziawang.com/article/10/)
   - Python项目相关--[c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started)
   - Python之外--[补蛇者说](https://pythonhunter.org/)
+
+- [day16](days/day16/day16.md)--2019.09.25
+  - Python标准库--contextlib
+  - Python好的文章[从contextlib源码谈with语句](https://www.yukunweb.com/2018/8/Talking-with-from-the-ontextlib-source/)
+  - [Python代码片段](day16.py)
+  - Python读书--Django设计模式与最佳实践 day2
+  - Python框架相关--[Bottle源码-应用主体](https://blog.dreamfever.me/2017/03/22/bottleyuan-ma-ying-yong-zhu-ti/)
+  - Python项目相关--[person blog powered by flask ](https://github.com/Blackyukun/YuBlog)
+  - Python之外--[TCP握手与socket通信细节](https://www.jianshu.com/p/3f42172f582b)
