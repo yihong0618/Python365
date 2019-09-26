@@ -10,13 +10,14 @@ DAYS_PATH = Path("days")
 
 header = """## 第{day_name}天
 ### 索引
-- Python标准库--
+- Python标准库--{package_name}
 - Python好的文章[]()
 - [Python代码片段]({day_py})
 - Python读书--[]()
 - Python框架相关--[]()
 - Python项目相关--[]()
 - Python之外--[]()
+### python标准库 [{package_name}](https://pymotw.com/3/{package_name}/index.html)
 """
 
 readme_header = "- [{day_name}]({day_path})--{date_name}"
@@ -34,7 +35,7 @@ def get_max_day(days_path: Path) -> Path:
     return max(days_path.iterdir(), key=find_max_day_num)
 
 
-def add_md_hearder(md_path: Path) -> None:
+def add_md_hearder(md_path: Path, package_name: str) -> None:
     day_name_dig = re.search(r"\d+", str(md_path.parent))
     if day_name_dig is None:
         return
@@ -44,10 +45,12 @@ def add_md_hearder(md_path: Path) -> None:
     # 把md后缀转换为py后缀
     day_py = str(md_path.stem) + ".py"
     with open(md_path, "w") as md:
-        md.write(header.format(day_name=day_name, day_py=day_py))
+        md.write(
+            header.format(day_name=day_name, day_py=day_py, package_name=package_name)
+        )
 
 
-def gen_new_day_dir(days_path: Path) -> None:
+def gen_new_day_dir(days_path: Path, package_name: str) -> None:
     day_last = get_max_day(days_path)
     day_num = re.search(r"\d+", str(day_last.stem))
     if day_num is None:
@@ -62,7 +65,7 @@ def gen_new_day_dir(days_path: Path) -> None:
     new_py = Path(day_new_path_name, day_new + ".py")
     new_md.touch()
     new_py.touch()
-    add_md_hearder(new_md)
+    add_md_hearder(new_md, package_name)
 
 
 def add_readme_info(day: Path) -> None:
@@ -95,6 +98,7 @@ args = parser.parse_args()
 
 if __name__ == "__main__":
     if args.gen:
-        add_readme_info(DAYS_PATH)
+        print(args.gen)
+        gen_new_day_dir(DAYS_PATH, args.gen)
     else:
-        gen_new_day_dir(DAYS_PATH)
+        add_readme_info(DAYS_PATH)
