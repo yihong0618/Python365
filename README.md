@@ -22,7 +22,7 @@
     - [ ] collections — Container Data Types
     - [ ] array — Sequence of Fixed-type Data
     - [ ] heapq – Heap Sort Algorithm
-    - [ ] bisect — Maintain Lists in Sorted Order
+    - [x] bisect — Maintain Lists in Sorted Order
     - [x] queue — Thread-Safe FIFO Implementation
     - [ ] struct — Binary Data Structures
     - [ ] weakref — Impermanent References to Objects
