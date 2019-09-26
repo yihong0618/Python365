@@ -333,3 +333,12 @@
   - Python框架相关--[Bottle源码-应用主体](https://blog.dreamfever.me/2017/03/22/bottleyuan-ma-ying-yong-zhu-ti/)
   - Python项目相关--[person blog powered by flask ](https://github.com/Blackyukun/YuBlog)
   - Python之外--[TCP握手与socket通信细节](https://www.jianshu.com/p/3f42172f582b)
+
+- [day17](days/day17/day17.md)--2019.09.26
+  - Python标准库--bisect
+  - Python好的文章[花了两个星期，我终于把 WSGI 整明白了](https://juejin.im/post/5cff300a6fb9a07ef06f8a43)
+  - [Python代码片段](day17.py)
+  - Python读书--Django设计模式与最佳实践 day3
+  - Python框架相关--[Bottle源码-路由](https://blog.dreamfever.me/2017/03/25/bottleyuan-ma-lu-you/)
+  - Python项目相关--[kuriyama](https://github.com/Hanaasagi/kuriyama)
+  - Python之外--[学会这21条，你就是 Vim 大神！](https://juejin.im/post/5d4818a0e51d4561d54de912)
