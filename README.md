@@ -25,7 +25,7 @@
     - [x] bisect — Maintain Lists in Sorted Order
     - [x] queue — Thread-Safe FIFO Implementation
     - [ ] struct — Binary Data Structures
-    - [ ] weakref — Impermanent References to Objects
+    - [x] weakref — Impermanent References to Objects
     - [x] copy — Duplicate Objects
     - [x] pprint — Pretty-Print Data Structures
 - [ ] Algorithms
@@ -342,3 +342,12 @@
   - Python框架相关--[Bottle源码-路由](https://blog.dreamfever.me/2017/03/25/bottleyuan-ma-lu-you/)
   - Python项目相关--[kuriyama](https://github.com/Hanaasagi/kuriyama)
   - Python之外--[学会这21条，你就是 Vim 大神！](https://juejin.im/post/5d4818a0e51d4561d54de912)
+
+- [day18](days/day18/day18.md)--2019.09.27
+  - Python标准库--weakref
+  - Python好的文章[Python项目容器化实践(一) - Docker Compose](https://www.dongwm.com/post/use-dcker-compose/)
+  - [Python代码片段](day18.py)
+  - Python读书--Django设计模式与最佳实践 day4
+  - Python框架相关--[Django restfulframework 权限](http://www.ziawang.com/article/304/)
+  - Python项目相关--[lyanna](https://github.com/dongweiming/lyanna)
+  - Python之外--[学完这篇你就会写正则](https://juejin.im/post/5d89edb1518825097619ecfe)
