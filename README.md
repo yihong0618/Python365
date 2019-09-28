@@ -40,7 +40,7 @@
 - [ ] Mathematics
     - [ ] decimal — Fixed and Floating Point Math
     - [ ] fractions — Rational Numbers
-    - [ ] random — Pseudorandom Number Generators
+    - [x] random — Pseudorandom Number Generators
     - [ ] math — Mathematical Functions
     - [ ] statistics — Statistical Calculations
 - [ ] The File System
