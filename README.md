@@ -351,3 +351,12 @@
   - Python框架相关--[Django restfulframework 权限](http://www.ziawang.com/article/304/)
   - Python项目相关--[lyanna](https://github.com/dongweiming/lyanna)
   - Python之外--[学完这篇你就会写正则](https://juejin.im/post/5d89edb1518825097619ecfe)
+
+- [day19](days/day19/day19.md)--2019.09.28
+  - Python标准库--random
+  - Python好的文章[在Django View中使用asyncio](https://www.hongweipeng.com/index.php/archives/1814/)
+  - [Python代码片段](day19.py)
+  - Python读书-- 没读
+  - Python框架相关--[Django restfulframework 限流](http://www.ziawang.com/article/305/)
+  - Python项目相关--[diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework#asyncio-low-level-apis-transports--protocols)
+  - Python之外--[计算机网络太难？了解这一篇就够了](https://juejin.im/post/5d896cccf265da03bd055c87)
