@@ -21,7 +21,7 @@
     - [x] enum – Enumeration Type
     - [ ] collections — Container Data Types
     - [ ] array — Sequence of Fixed-type Data
-    - [ ] heapq – Heap Sort Algorithm
+    - [x] heapq – Heap Sort Algorithm
     - [x] bisect — Maintain Lists in Sorted Order
     - [x] queue — Thread-Safe FIFO Implementation
     - [ ] struct — Binary Data Structures
