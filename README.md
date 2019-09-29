@@ -360,3 +360,12 @@
   - Python框架相关--[Django restfulframework 限流](http://www.ziawang.com/article/305/)
   - Python项目相关--[diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework#asyncio-low-level-apis-transports--protocols)
   - Python之外--[计算机网络太难？了解这一篇就够了](https://juejin.im/post/5d896cccf265da03bd055c87)
+
+- [day20](days/day20/day20.md)--2019.09.29
+  - Python标准库--heapq
+  - Python好的文章[PyCon小节](https://laike9m.com/blog/wo-de-2019-pycon-china-xiao-jie-xia,127/)
+  - [Python代码片段](day20.py)
+  - Python读书--None
+  - Python框架相关--[django中自动重载机制探究](https://www.hongweipeng.com/index.php/archives/1365/)
+  - Python项目相关--[Cyberbrain](https://github.com/laike9m/Cyberbrain)
+  - Python之外--今天终于离职了，开心

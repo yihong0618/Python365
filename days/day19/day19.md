@@ -29,4 +29,4 @@ print()
 3. random.seed(2) 种子一样生成的值就一样
 4. random.choice()接收个可迭代对象
 5. random.shuffle()
-6. random.sample() 不包含重复的
+6. random.sample() 不包含重复的c
