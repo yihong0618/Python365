@@ -378,3 +378,12 @@
   - Python框架相关--[Django 源码阅读(一):概览从入口到请求到响应](https://www.hongweipeng.com/index.php/archives/1369/)
   - Python项目相关--[poetry](https://github.com/sdispater/poetry)
   - Python之外--[TCP/IP简明教程 - 从零构建TCP/IP协议](https://jiajunhuang.com/articles/2017_08_12-tcp_ip.md.html)
+
+- [day22](days/day22/day22.md)--2019.10.01
+  - Python标准库--threading
+  - Python好的文章[Python 源码: 复制列表元素时 Python 做了什么？](https://github.com/shidenggui/blog/issues/16)
+  - [Python代码片段](day22.py)
+  - Python读书--None
+  - Python框架相关--[flask蓝图基础](http://www.ziawang.com/article/14/)
+  - Python项目相关--[easytrader](https://github.com/shidenggui/easytrader)
+  - Python之外--[使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/index.html)
