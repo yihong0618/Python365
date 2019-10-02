@@ -54,7 +54,7 @@
     - [ ] filecmp — Compare Files
     - [ ] mmap — Memory-map Files
     - [ ] codecs — String Encoding and Decoding
-    - [ ] io — Text, Binary, and Raw Stream I/O Tools
+    - [x] io — Text, Binary, and Raw Stream I/O Tools
 - [ ] Data Persistence and Exchange
     - [ ] pickle — Object Serialization
     - [ ] shelve — Persistent Storage of Objects
@@ -74,7 +74,7 @@
 - [ ] Concurrency with Processes, Threads, and Coroutines
     - [ ] subprocess — Spawning Additional Processes
     - [ ] signal — Asynchronous System Events
-    - [ ] threading — Manage Concurrent Operations Within a Process
+    - [x] threading — Manage Concurrent Operations Within a Process
     - [ ] multiprocessing — Manage Processes Like Threads
     - [ ] asyncio — Asynchronous I/O, event loop, and concurrency tools
     - [ ] concurrent.futures — Manage Pools of Concurrent Tasks
@@ -387,3 +387,12 @@
   - Python框架相关--[flask蓝图基础](http://www.ziawang.com/article/14/)
   - Python项目相关--[easytrader](https://github.com/shidenggui/easytrader)
   - Python之外--[使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/index.html)
+
+- [day23](days/day23/day23.md)--2019.10.02
+  - Python标准库--io
+  - Python好的文章[Linux IO模式及 select、poll、epoll详解](https://taohuawu.club/linux-io-select-poll-epoll)
+  - [Python代码片段](day23.py)
+  - Python读书--None
+  - Python框架相关--[flask请求生命周期](http://www.ziawang.com/article/15/)
+  - Python项目相关--[fy](https://github.com/chenjiandongx/fy)
+  - Python之外--[书单](https://taohuawu.club/reading-list#b3_solo_h1_0)
