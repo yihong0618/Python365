@@ -396,3 +396,12 @@
   - Python框架相关--[flask请求生命周期](http://www.ziawang.com/article/15/)
   - Python项目相关--[fy](https://github.com/chenjiandongx/fy)
   - Python之外--[书单](https://taohuawu.club/reading-list#b3_solo_h1_0)
+
+- [day24](days/day24/day24.md)--2019.10.03
+  - Python标准库--glob
+  - Python好的文章[A Python Interpreter Written in Python](http://qingyunha.github.io/taotao/)
+  - [Python代码片段](day24.py)
+  - Python读书--Python cookbook
+  - Python框架相关--[flask CBV FBV](http://www.ziawang.com/article/16/)
+  - Python项目相关--[Build a RESTful API with Flask – The TDD Way](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
+  - Python之外--[计算机系统要素](https://github.com/woai3c/nand2tetris)
