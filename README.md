@@ -405,3 +405,12 @@
   - Python框架相关--[flask CBV FBV](http://www.ziawang.com/article/16/)
   - Python项目相关--[Build a RESTful API with Flask – The TDD Way](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
   - Python之外--[计算机系统要素](https://github.com/woai3c/nand2tetris)
+
+- [day25](days/day25/day25.md)--2019.10.05
+  - Python标准库--decimal
+  - Python好的文章[Python 工匠：使用数字与字符串的技巧](https://github.com/piglei/one-python-craftsman/blob/master/zh_CN/3-tips-on-numbers-and-strings.md)
+  - [Python代码片段](day25.py)
+  - Python读书--Python cookbook
+  - Python框架相关--[Flask 上下文对象源码](http://www.ziawang.com/article/19/)
+  - Python项目相关--[lsbasi](https://github.com/rspivak/lsbasi)
+  - Python之外--[中英双语字幕精校版 CSAPP](https://github.com/EugeneLiu/translationCSAPP)
