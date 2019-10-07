@@ -414,3 +414,12 @@
   - Python框架相关--[Flask 上下文对象源码](http://www.ziawang.com/article/19/)
   - Python项目相关--[lsbasi](https://github.com/rspivak/lsbasi)
   - Python之外--[中英双语字幕精校版 CSAPP](https://github.com/EugeneLiu/translationCSAPP)
+
+- [day26](days/day26/day26.md)--2019.10.07
+  - Python标准库--logging
+  - Python好的文章[asyncio 笔记](https://manjusaka.itscoder.com/posts/2017/06/07/some-note-for-asyncio/)
+  - [Python代码片段](day26.py)
+  - Python读书--Python cookbook
+  - Python框架相关--[你所不知道的 Flask Part1:Route 初探](https://manjusaka.itscoder.com/posts/2017/08/13/what-the-fuck-about-flask-part1/)
+  - Python项目相关--None
+  - Python之外--[当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
