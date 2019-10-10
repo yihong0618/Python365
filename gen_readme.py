@@ -44,7 +44,7 @@ def add_md_hearder(md_path: Path, package_name: str) -> None:
     day_name = an2cn(day_name)
     # 把md后缀转换为py后缀
     day_py = str(md_path.stem) + ".py"
-    with open(md_path, "w") as md:
+    with open(md_path, "w", encoding="utf-8") as md:
         md.write(
             header.format(day_name=day_name, day_py=day_py, package_name=package_name)
         )
