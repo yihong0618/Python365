@@ -38,7 +38,7 @@
     - [x] datetime — Date and Time Value Manipulation
     - [x] calendar — Work with Dates
 - [ ] Mathematics
-    - [ ] decimal — Fixed and Floating Point Math
+    - [x] decimal — Fixed and Floating Point Math
     - [ ] fractions — Rational Numbers
     - [x] random — Pseudorandom Number Generators
     - [ ] math — Mathematical Functions
@@ -62,14 +62,14 @@
     - [ ] sqlite3 — Embedded Relational Database
     - [ ] xml.etree.ElementTree — XML Manipulation API
     - [ ] csv — Comma-separated Value Files
-    - [ ] Data Compression and Archiving
+- [ ] Data Compression and Archiving
     - [ ] zlib — GNU zlib Compression
     - [ ] gzip — Read and Write GNU zip Files
     - [ ] bz2 — bzip2 Compression
     - [ ] tarfile — Tar Archive Access
     - [ ] zipfile — ZIP Archive Access
 - [ ] Cryptography
-    - [ ] hashlib — Cryptographic Hashing
+    - [x] hashlib — Cryptographic Hashing
     - [ ] hmac — Cryptographic Message Signing and Verification
 - [ ] Concurrency with Processes, Threads, and Coroutines
     - [ ] subprocess — Spawning Additional Processes
@@ -423,3 +423,12 @@
   - Python框架相关--[你所不知道的 Flask Part1:Route 初探](https://manjusaka.itscoder.com/posts/2017/08/13/what-the-fuck-about-flask-part1/)
   - Python项目相关--None
   - Python之外--[当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
+
+- [day27](days\day27\day27.md)--2019.10.10
+  - Python标准库--hashlib
+  - Python好的文章[跟着 Github 学习 Restful HTTP API 设计](https://cizixs.com/2016/12/12/restful-api-design-guide/)
+  - [Python代码片段](day27.py)
+  - Python读书--Python cookbook
+  - Python框架相关--[Django 2.0 新特性抢先看](http://www.liujiangblog.com/blog/8/)
+  - Python项目相关--[新闻网页正文通用抽取器 Alpha 版.](https://github.com/kingname/GeneralNewsExtractor)
+  - Python之外--[130+vim基本命令](http://wklken.me/posts/2013/08/17/130-essential-vim-commands.html#stq=&stp=0)
