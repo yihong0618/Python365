@@ -432,3 +432,12 @@
   - Python框架相关--[Django 2.0 新特性抢先看](http://www.liujiangblog.com/blog/8/)
   - Python项目相关--[新闻网页正文通用抽取器 Alpha 版.](https://github.com/kingname/GeneralNewsExtractor)
   - Python之外--[130+vim基本命令](http://wklken.me/posts/2013/08/17/130-essential-vim-commands.html#stq=&stp=0)
+
+- [day28](days\day28\day28.md)--2019.10.12
+  - Python标准库--multiprocessing
+  - Python好的文章[Python super 没那么简单](https://mozillazg.com/2016/12/python-super-is-not-as-simple-as-you-thought.html)
+  - [Python代码片段](day28.py)--super
+  - Python读书--None
+  - Python框架相关--[django相关的一些列表](https://github.com/hhstore/blog/labels/Py-Django)
+  - Python项目相关--[issues博客](https://github.com/hhstore/blog)
+  - Python之外--[并行编程的各种锁](https://blog.laisky.com/p/concurrency-lock/)
