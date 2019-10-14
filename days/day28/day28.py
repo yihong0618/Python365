@@ -4,14 +4,11 @@ super 没那么简单
 
 
 class A:
-
     def add(self):
         print(222)
 
 
-
 class B(A):
-
     def add(self):
         super().add()
         # python2 super(B, self).add(x)
@@ -23,7 +20,7 @@ class C:
         self.n = 2
 
     def add(self, m):
-        print('self is {0} @C.add'.format(self))
+        print("self is {0} @C.add".format(self))
         self.n += m
 
 
@@ -32,7 +29,7 @@ class D(C):
         self.n = 3
 
     def add(self, m):
-        print('self is {0} @D.add'.format(self))
+        print("self is {0} @D.add".format(self))
         super().add(m)
         self.n += 3
 
@@ -45,7 +42,6 @@ super().add(m) 调用父类方法 def add(self, m) 时, 此时父类中 self 并
 """
 
 
-
 class A:
     def __init__(self):
         self.n = 2
@@ -54,7 +50,7 @@ class A:
         # 第四步
         # 来自 D.add 中的 super
         # self == d, self.n == d.n == 5
-        print('self is {0} @A.add'.format(self))
+        print("self is {0} @A.add".format(self))
         self.n += m
         # d.n == 7
 
@@ -67,7 +63,7 @@ class B(A):
         # 第二步
         # 来自 D.add 中的 super
         # self == d, self.n == d.n == 5
-        print('self is {0} @B.add'.format(self))
+        print("self is {0} @B.add".format(self))
         # 等价于 suepr(B, self).add(m)
         # self 的 MRO 是 [D, B, C, A, object]
         # 从 B 之后的 [C, A, object] 中查找 add 方法
@@ -78,6 +74,7 @@ class B(A):
         self.n += 3
         # d.n = 14
 
+
 class C(A):
     def __init__(self):
         self.n = 4
@@ -86,7 +83,7 @@ class C(A):
         # 第三步
         # 来自 B.add 中的 super
         # self == d, self.n == d.n == 5
-        print('self is {0} @C.add'.format(self))
+        print("self is {0} @C.add".format(self))
         # 等价于 suepr(C, self).add(m)
         # self 的 MRO 是 [D, B, C, A, object]
         # 从 C 之后的 [A, object] 中查找 add 方法
@@ -104,7 +101,7 @@ class D(B, C):
 
     def add(self, m):
         # 第一步
-        print('self is {0} @D.add'.format(self))
+        print("self is {0} @D.add".format(self))
         # 等价于 super(D, self).add(m)
         # self 的 MRO 是 [D, B, C, A, object]
         # 从 D 之后的 [B, C, A, object] 中查找 add 方法
@@ -114,6 +111,7 @@ class D(B, C):
         # d.n = 14
         self.n += 5
         # self.n = 19
+
 
 d = D()
 d.add(2)

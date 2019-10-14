@@ -441,3 +441,12 @@
   - Python框架相关--[django相关的一些列表](https://github.com/hhstore/blog/labels/Py-Django)
   - Python项目相关--[issues博客](https://github.com/hhstore/blog)
   - Python之外--[并行编程的各种锁](https://blog.laisky.com/p/concurrency-lock/)
+
+- [day29](days/day29/day29.md)--2019.10.14
+  - Python标准库--inspect
+  - Python好的文章[socket in Python](https://realpython.com/python-sockets/)
+  - [Python代码片段](day29.py)
+  - Python读书--None
+  - Python框架相关--[Django REST framework API 指南](https://juejin.im/post/5a991807518825558a060a77)
+  - Python项目相关--[SOLID](https://github.com/dboyliao/SOLID)
+  - Python之外--[在日本工作和生活是一种什么样的体验](https://justinyan.me/post/3927)
