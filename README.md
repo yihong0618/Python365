@@ -450,3 +450,12 @@
   - Python框架相关--[Django REST framework API 指南](https://juejin.im/post/5a991807518825558a060a77)
   - Python项目相关--[SOLID](https://github.com/dboyliao/SOLID)
   - Python之外--[在日本工作和生活是一种什么样的体验](https://justinyan.me/post/3927)
+
+- [day30](days\day30\day30.md)--2019.10.15
+  - Python标准库--os.path
+  - Python好的文章[初解PYTHON并发](https://linw1995.com/blog/%E5%88%9D%E8%A7%A3Python%E5%B9%B6%E5%8F%91/)
+  - [Python代码片段](day30.py)
+  - Python读书--None
+  - Python框架相关--[django rest framework mixins小结](https://juejin.im/post/5a66fc64f265da3e4e25c6e7)
+  - Python项目相关--[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
+  - Python之外--[grex](https://github.com/pemistahl/grex)
