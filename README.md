@@ -44,7 +44,7 @@
     - [ ] math — Mathematical Functions
     - [ ] statistics — Statistical Calculations
 - [ ] The File System
-    - [ ] os.path — Platform-independent Manipulation of Filenames
+    - [x] os.path — Platform-independent Manipulation of Filenames
     - [x] pathlib — Filesystem Paths as Objects
     - [ ] glob — Filename Pattern Matching
     - [x] fnmatch — Unix-style Glob Pattern Matching
@@ -459,3 +459,12 @@
   - Python框架相关--[django rest framework mixins小结](https://juejin.im/post/5a66fc64f265da3e4e25c6e7)
   - Python项目相关--[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
   - Python之外--[grex](https://github.com/pemistahl/grex)
+
+- [day31](days\day31\day31.md)--2019.10.16
+  - Python标准库--select
+  - Python好的文章[Python 3.8正式发布，带来那些新特性？](https://www.dongwm.com/post/whats-new-in-python-3-dot-8/)
+  - [Python代码片段](day31.py)
+  - Python读书--None
+  - Python框架相关--[https://www.dongwm.com/post/113/](https://www.dongwm.com/post/113/)
+  - Python项目相关--[https://www.dongwm.com/post/120/](不可错过的Python技术博客（网站）)
+  - Python之外--[ASCII table in golang](https://github.com/olekukonko/tablewriter)
