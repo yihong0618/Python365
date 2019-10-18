@@ -468,3 +468,12 @@
   - Python框架相关--[https://www.dongwm.com/post/113/](https://www.dongwm.com/post/113/)
   - Python项目相关--[https://www.dongwm.com/post/120/](不可错过的Python技术博客（网站）)
   - Python之外--[ASCII table in golang](https://github.com/olekukonko/tablewriter)
+
+- [day32](days/day32/day32.md)--2019.10.18
+  - Python标准库--csv
+  - Python好的文章[How To Use Linux epoll with Python](http://scotdoyle.com/python-epoll-howto.html)
+  - [Python代码片段](day32.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--[pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
+  - Python之外--None
