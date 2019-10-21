@@ -61,7 +61,7 @@
     - [ ] dbm — Unix Key-Value Databases
     - [ ] sqlite3 — Embedded Relational Database
     - [ ] xml.etree.ElementTree — XML Manipulation API
-    - [ ] csv — Comma-separated Value Files
+    - [x] csv — Comma-separated Value Files
 - [ ] Data Compression and Archiving
     - [ ] zlib — GNU zlib Compression
     - [ ] gzip — Read and Write GNU zip Files
@@ -477,3 +477,12 @@
   - Python框架相关--None
   - Python项目相关--[pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
   - Python之外--None
+
+- [day33](days\day33\day33.md)--2019.10.21
+  - Python标准库--pickle
+  - Python好的文章[如何在静态检查中表达 sentinel](https://blog.dreamfever.me/2019/10/17/ru-he-zai-jing-tai-jian-cha-zhong-biao-da-sentinel/)
+  - [Python代码片段](day33.py)
+  - Python读书--Python cookbook
+  - Python框架相关--None
+  - Python项目相关--[code2sec.com 安全相关](https://github.com/bit4woo/code2sec.com)
+  - Python之外--[程序员修炼之道第二版开始翻译了](https://blog.codingnow.com/2019/10/tpp2nd.html#more)
