@@ -486,3 +486,12 @@
   - Python框架相关--None
   - Python项目相关--[code2sec.com 安全相关](https://github.com/bit4woo/code2sec.com)
   - Python之外--[程序员修炼之道第二版开始翻译了](https://blog.codingnow.com/2019/10/tpp2nd.html#more)
+
+- [day34](days\day34\day34.md)--2019.10.22
+  - Python标准库--itertools day1
+  - Python好的文章[MENUEXPLORING UNITED STATES POLICING DATA USING PYTHON](https://blog.patricktriest.com/police-data-python/)
+  - [Python代码片段](day34.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python之外--[PayloadsAllTheThings][https://github.com/swisskyrepo/PayloadsAllTheThings]
+  ### python标准库 [itertools](https://pymotw.com/3/itertools/index.html)
