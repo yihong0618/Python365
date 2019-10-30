@@ -495,3 +495,31 @@
   - Python框架相关--None
   - Python之外--[PayloadsAllTheThings][https://github.com/swisskyrepo/PayloadsAllTheThings]
   ### python标准库 [itertools](https://pymotw.com/3/itertools/index.html)
+
+- [day35](days\day36\day35.md)--2019.10.28
+  - Python标准库--itertools day2
+  - Python好的文章[[python]记录关于websocket的原理和使用](https://vimiix.com/post/2018/04/02/python-websocket/)
+  - [Python代码片段](day35.py)
+  - Python读书--None
+  - Python框架相关--[Django Channels2.0 websocket最佳实践](https://vimiix.com/post/2018/07/26/channels2-tutorial/)
+  - Python项目相关--[examiner](https://github.com/howie6879/examiner)
+  - Python之外--[原生JS灵魂之问, 请问你能接得住几个？(上)](https://juejin.im/post/5dac5d82e51d45249850cd20)
+  ### python标准库 [itertools](https://pymotw.com/3/itertools/index.html)
+
+- [day36](days\day36\day36.md)--2019.10.30
+  - Python标准库--itertools day3
+  - Python好的文章[Django使用Channels实现WebSocket--上篇](https://juejin.im/post/5cb67fc3e51d456e6a1d0237)
+  - [Python代码片段](day36.py)
+  - Python读书--None
+  - Python框架相关--[Django 源码小剖: 应用程序入口 WSGIHandler](https://www.cnblogs.com/daoluanxiaozi/p/3315838.html)
+  - Python项目相关--[Strava-local-heatmap](https://github.com/remisalmon/Strava-local-heatmap)
+  - Python之外--[《Kubernetes In Action》 摘抄 & 笔记](https://blog.laisky.com/p/kubernetes-in-action/)
+
+- [day37](days\day37\day37.md)--2019.10.30
+  - Python标准库--urllib.parse
+  - Python好的文章[Django配置Celery执行异步任务和定时任务](https://mp.weixin.qq.com/s/lXrp3igYo9W2UuE5Gauysg)
+  - [Python代码片段](day37.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--None
+  - Python之外--[Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)
