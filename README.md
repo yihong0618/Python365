@@ -9,6 +9,7 @@
 6. Python之外
 
 365天坚持住的话真的是一笔挺大的财富，能完成的话对自己算是一个提升，完成不了的话也不过是互联网上一个无名小卒又一次失败的尝试，总之有勇气开始就已经是目的地的一半了，是吧。
+2019.10.31 更新，完成了1/10，新开坑Front100
 
 ## 标准库
 
@@ -30,7 +31,7 @@
     - [x] pprint — Pretty-Print Data Structures
 - [ ] Algorithms
     - [ ] functools — Tools for Manipulating Functions
-    - [ ] itertools — Iterator Functions
+    - [x] itertools — Iterator Functions
     - [x] operator — Functional Interface to Built-in Operators
     - [ ] contextlib — Context Manager Utilities
 - [x] Dates and Times
@@ -46,7 +47,7 @@
 - [ ] The File System
     - [x] os.path — Platform-independent Manipulation of Filenames
     - [x] pathlib — Filesystem Paths as Objects
-    - [ ] glob — Filename Pattern Matching
+    - [x] glob — Filename Pattern Matching
     - [x] fnmatch — Unix-style Glob Pattern Matching
     - [ ] linecache — Read Text Files Efficiently
     - [ ] tempfile — Temporary File System Objects
@@ -56,7 +57,7 @@
     - [ ] codecs — String Encoding and Decoding
     - [x] io — Text, Binary, and Raw Stream I/O Tools
 - [ ] Data Persistence and Exchange
-    - [ ] pickle — Object Serialization
+    - [x] pickle — Object Serialization
     - [ ] shelve — Persistent Storage of Objects
     - [ ] dbm — Unix Key-Value Databases
     - [ ] sqlite3 — Embedded Relational Database
@@ -504,7 +505,6 @@
   - Python框架相关--[Django Channels2.0 websocket最佳实践](https://vimiix.com/post/2018/07/26/channels2-tutorial/)
   - Python项目相关--[examiner](https://github.com/howie6879/examiner)
   - Python之外--[原生JS灵魂之问, 请问你能接得住几个？(上)](https://juejin.im/post/5dac5d82e51d45249850cd20)
-  ### python标准库 [itertools](https://pymotw.com/3/itertools/index.html)
 
 - [day36](days\day36\day36.md)--2019.10.30
   - Python标准库--itertools day3
@@ -523,3 +523,12 @@
   - Python框架相关--None
   - Python项目相关--None
   - Python之外--[Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)
+
+- [day38](days\day38\day38.md)--2019.11.05
+  - Python标准库--subprocess
+  - Python好的文章[Python 源码: 复制列表元素时 Python 做了什么](https://github.com/shidenggui/blog/issues/16)
+  - [Python代码片段](day38.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--None
+  - Python之外--[网络编程所需要熟悉的那些函数](https://jiajunhuang.com/articles/2019_11_01-network_programming.md.html)
