@@ -50,7 +50,7 @@
     - [x] glob — Filename Pattern Matching
     - [x] fnmatch — Unix-style Glob Pattern Matching
     - [ ] linecache — Read Text Files Efficiently
-    - [ ] tempfile — Temporary File System Objects
+    - [x] tempfile — Temporary File System Objects
     - [ ] shutil — High-level File Operations
     - [ ] filecmp — Compare Files
     - [ ] mmap — Memory-map Files
@@ -495,7 +495,6 @@
   - Python读书--None
   - Python框架相关--None
   - Python之外--[PayloadsAllTheThings][https://github.com/swisskyrepo/PayloadsAllTheThings]
-  ### python标准库 [itertools](https://pymotw.com/3/itertools/index.html)
 
 - [day35](days\day36\day35.md)--2019.10.28
   - Python标准库--itertools day2
@@ -532,3 +531,12 @@
   - Python框架相关--None
   - Python项目相关--None
   - Python之外--[网络编程所需要熟悉的那些函数](https://jiajunhuang.com/articles/2019_11_01-network_programming.md.html)
+
+- [day39](days\day39\day39.md)--2019.11.07
+  - Python标准库--tempfile
+  - Python好的文章[带你进入异步Django+Vue的世界 - Didi打车实战](https://www.jianshu.com/p/7e5f2090555d)
+  - [Python代码片段](day39.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--None
+  - Python之外--[《计算机网络－自顶向下方法》笔记](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)
