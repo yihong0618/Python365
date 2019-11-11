@@ -540,3 +540,12 @@
   - Python框架相关--None
   - Python项目相关--None
   - Python之外--[《计算机网络－自顶向下方法》笔记](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)
+
+- [day40](days\day40\day40.md)--2019.11.11
+  - Python标准库--uuid
+  - Python好的文章[Python 工匠：善用变量来改善代码质量](https://github.com/piglei/one-python-craftsman/blob/master/zh_CN/1-using-variables-well.md)
+  - [Python代码片段](day40.py)
+  - Python读书--编码DAY1
+  - Python框架相关--None
+  - Python项目相关--[pymxget](https://github.com/winterssy/pymxget)
+  - Python之外--[css3用scale实现下划线动画](https://www.jianshu.com/p/f91e606a770c)
