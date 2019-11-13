@@ -142,9 +142,9 @@
     - [ ] sysconfig — Interpreter Compile-time Configuration
 - [ ] Language Tools
     - [ ] warnings — Non-fatal Alerts
-    - [ ] abc — Abstract Base Classes
+    - [x] abc — Abstract Base Classes
     - [ ] dis — Python Bytecode Disassembler
-    - [ ] inspect — Inspect Live Objects
+    - [x] inspect — Inspect Live Objects
 - [ ] Modules and Packages
     - [ ] importlib — Python’s Import Mechanism
     - [ ] pkgutil — Package Utilities
@@ -549,3 +549,12 @@
   - Python框架相关--None
   - Python项目相关--[pymxget](https://github.com/winterssy/pymxget)
   - Python之外--[css3用scale实现下划线动画](https://www.jianshu.com/p/f91e606a770c)
+
+- [day41](days\day41\day41.md)--2019.11.13
+  - Python标准库--abc
+  - Python好的文章[我的技术栈选型](https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html)
+  - [Python代码片段](day41.py)
+  - Python读书--编码
+  - Python框架相关--None
+  - Python项目相关--[vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
+  - Python之外--[How to build an HTML calculator app from scratch using JavaScript](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/)
