@@ -9,6 +9,7 @@
 6. Python之外
 
 365天坚持住的话真的是一笔挺大的财富，能完成的话对自己算是一个提升，完成不了的话也不过是互联网上一个无名小卒又一次失败的尝试，总之有勇气开始就已经是目的地的一半了，是吧。
+2019.10.31 更新，完成了1/10，新开坑Front100
 
 ## 标准库
 
@@ -30,7 +31,7 @@
     - [x] pprint — Pretty-Print Data Structures
 - [ ] Algorithms
     - [ ] functools — Tools for Manipulating Functions
-    - [ ] itertools — Iterator Functions
+    - [x] itertools — Iterator Functions
     - [x] operator — Functional Interface to Built-in Operators
     - [ ] contextlib — Context Manager Utilities
 - [x] Dates and Times
@@ -46,22 +47,22 @@
 - [ ] The File System
     - [x] os.path — Platform-independent Manipulation of Filenames
     - [x] pathlib — Filesystem Paths as Objects
-    - [ ] glob — Filename Pattern Matching
+    - [x] glob — Filename Pattern Matching
     - [x] fnmatch — Unix-style Glob Pattern Matching
     - [ ] linecache — Read Text Files Efficiently
-    - [ ] tempfile — Temporary File System Objects
+    - [x] tempfile — Temporary File System Objects
     - [ ] shutil — High-level File Operations
     - [ ] filecmp — Compare Files
     - [ ] mmap — Memory-map Files
     - [ ] codecs — String Encoding and Decoding
     - [x] io — Text, Binary, and Raw Stream I/O Tools
 - [ ] Data Persistence and Exchange
-    - [ ] pickle — Object Serialization
+    - [x] pickle — Object Serialization
     - [ ] shelve — Persistent Storage of Objects
     - [ ] dbm — Unix Key-Value Databases
     - [ ] sqlite3 — Embedded Relational Database
     - [ ] xml.etree.ElementTree — XML Manipulation API
-    - [ ] csv — Comma-separated Value Files
+    - [x] csv — Comma-separated Value Files
 - [ ] Data Compression and Archiving
     - [ ] zlib — GNU zlib Compression
     - [ ] gzip — Read and Write GNU zip Files
@@ -141,9 +142,9 @@
     - [ ] sysconfig — Interpreter Compile-time Configuration
 - [ ] Language Tools
     - [ ] warnings — Non-fatal Alerts
-    - [ ] abc — Abstract Base Classes
+    - [x] abc — Abstract Base Classes
     - [ ] dis — Python Bytecode Disassembler
-    - [ ] inspect — Inspect Live Objects
+    - [x] inspect — Inspect Live Objects
 - [ ] Modules and Packages
     - [ ] importlib — Python’s Import Mechanism
     - [ ] pkgutil — Package Utilities
@@ -477,3 +478,83 @@
   - Python框架相关--None
   - Python项目相关--[pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
   - Python之外--None
+
+- [day33](days\day33\day33.md)--2019.10.21
+  - Python标准库--pickle
+  - Python好的文章[如何在静态检查中表达 sentinel](https://blog.dreamfever.me/2019/10/17/ru-he-zai-jing-tai-jian-cha-zhong-biao-da-sentinel/)
+  - [Python代码片段](day33.py)
+  - Python读书--Python cookbook
+  - Python框架相关--None
+  - Python项目相关--[code2sec.com 安全相关](https://github.com/bit4woo/code2sec.com)
+  - Python之外--[程序员修炼之道第二版开始翻译了](https://blog.codingnow.com/2019/10/tpp2nd.html#more)
+
+- [day34](days\day34\day34.md)--2019.10.22
+  - Python标准库--itertools day1
+  - Python好的文章[MENUEXPLORING UNITED STATES POLICING DATA USING PYTHON](https://blog.patricktriest.com/police-data-python/)
+  - [Python代码片段](day34.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python之外--[PayloadsAllTheThings][https://github.com/swisskyrepo/PayloadsAllTheThings]
+
+- [day35](days\day36\day35.md)--2019.10.28
+  - Python标准库--itertools day2
+  - Python好的文章[[python]记录关于websocket的原理和使用](https://vimiix.com/post/2018/04/02/python-websocket/)
+  - [Python代码片段](day35.py)
+  - Python读书--None
+  - Python框架相关--[Django Channels2.0 websocket最佳实践](https://vimiix.com/post/2018/07/26/channels2-tutorial/)
+  - Python项目相关--[examiner](https://github.com/howie6879/examiner)
+  - Python之外--[原生JS灵魂之问, 请问你能接得住几个？(上)](https://juejin.im/post/5dac5d82e51d45249850cd20)
+
+- [day36](days\day36\day36.md)--2019.10.30
+  - Python标准库--itertools day3
+  - Python好的文章[Django使用Channels实现WebSocket--上篇](https://juejin.im/post/5cb67fc3e51d456e6a1d0237)
+  - [Python代码片段](day36.py)
+  - Python读书--None
+  - Python框架相关--[Django 源码小剖: 应用程序入口 WSGIHandler](https://www.cnblogs.com/daoluanxiaozi/p/3315838.html)
+  - Python项目相关--[Strava-local-heatmap](https://github.com/remisalmon/Strava-local-heatmap)
+  - Python之外--[《Kubernetes In Action》 摘抄 & 笔记](https://blog.laisky.com/p/kubernetes-in-action/)
+
+- [day37](days\day37\day37.md)--2019.10.30
+  - Python标准库--urllib.parse
+  - Python好的文章[Django配置Celery执行异步任务和定时任务](https://mp.weixin.qq.com/s/lXrp3igYo9W2UuE5Gauysg)
+  - [Python代码片段](day37.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--None
+  - Python之外--[Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)
+
+- [day38](days\day38\day38.md)--2019.11.05
+  - Python标准库--subprocess
+  - Python好的文章[Python 源码: 复制列表元素时 Python 做了什么](https://github.com/shidenggui/blog/issues/16)
+  - [Python代码片段](day38.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--None
+  - Python之外--[网络编程所需要熟悉的那些函数](https://jiajunhuang.com/articles/2019_11_01-network_programming.md.html)
+
+- [day39](days\day39\day39.md)--2019.11.07
+  - Python标准库--tempfile
+  - Python好的文章[带你进入异步Django+Vue的世界 - Didi打车实战](https://www.jianshu.com/p/7e5f2090555d)
+  - [Python代码片段](day39.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--None
+  - Python之外--[《计算机网络－自顶向下方法》笔记](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)
+
+- [day40](days\day40\day40.md)--2019.11.11
+  - Python标准库--uuid
+  - Python好的文章[Python 工匠：善用变量来改善代码质量](https://github.com/piglei/one-python-craftsman/blob/master/zh_CN/1-using-variables-well.md)
+  - [Python代码片段](day40.py)
+  - Python读书--编码DAY1
+  - Python框架相关--None
+  - Python项目相关--[pymxget](https://github.com/winterssy/pymxget)
+  - Python之外--[css3用scale实现下划线动画](https://www.jianshu.com/p/f91e606a770c)
+
+- [day41](days\day41\day41.md)--2019.11.13
+  - Python标准库--abc
+  - Python好的文章[我的技术栈选型](https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html)
+  - [Python代码片段](day41.py)
+  - Python读书--编码
+  - Python框架相关--None
+  - Python项目相关--[vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
+  - Python之外--[How to build an HTML calculator app from scratch using JavaScript](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/)

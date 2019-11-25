@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        h2 {
+            position: relative;
+            padding: 15px;
+            text-align: center;
+        }
+        button {
+            width: 100px;
+            height: 40px;
+            border-radius: 15px;
+            border: none;
+            background: #118888;
+            color: #fff;
+            outline: none;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        button:hover {
+            background: #188EA7;
+            color: #223322;
+        }
+        .container {
+            width: 600px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0 auto;
+        }
+        .line {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 3px;
+            width: 100%;
+            transition: transform .5s;
+            background: #188EA7;
+            color: #188EA7;
+            transform: scaleX(0);
+            z-index: 1111;
+        }
+        
+        @keyframes changeColor1 {
+            from {
+                color: #000;
+            }
+            to {
+                color: #188ea7;
+            }
+        }
+         @keyframes changeColor2 {
+            from {
+                color: #188ea7;
+            }
+            to {
+                color: #000;
+            }
+        }
+        
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 id="title">
+            百度前端学院
+            <i class="line" id="line"></i>
+        </h2>
+        <button id="change">Change</button>
+    </div>
+    
+</body>
+<script>
+(function () {
+    let btn = document.getElementById('change');
+    let h2 = document.getElementById('title');
+    let line = document.getElementById('line');
+    let count = 0;
+    btn.onclick = () => {
+        if (count%2===0) {
+            line.style.transform = 'scaleX(1)';
+            h2.style.animation = 'changeColor1 1s';
+            h2.style.color = '#188EA7';
+        } else {
+            line.style.transform = 'scaleX(0)';
+            h2.style.animation = 'changeColor2 1s';
+            h2.style.color = '#000';
+        }
+        count++;
+    }
+
+})()
+</script>
+</html>
