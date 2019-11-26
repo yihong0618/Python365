@@ -143,7 +143,7 @@
 - [ ] Language Tools
     - [ ] warnings — Non-fatal Alerts
     - [x] abc — Abstract Base Classes
-    - [ ] dis — Python Bytecode Disassembler
+    - [x] dis — Python Bytecode Disassembler
     - [x] inspect — Inspect Live Objects
 - [ ] Modules and Packages
     - [ ] importlib — Python’s Import Mechanism
@@ -199,7 +199,7 @@
 - [ ] [wtfpython](https://github.com/satwikkansal/wtfpython)
 - [ ] [Web application from scratch](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 - [ ] [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
-- [ ] [Python实现的Python解释器](http://qingyunha.github.io/taotao/)
+- [x] [Python实现的Python解释器](http://qingyunha.github.io/taotao/)
 
 ## Days
 - [day1](days/day1/day1.md)--2019.09.05
@@ -558,3 +558,12 @@
   - Python框架相关--None
   - Python项目相关--[vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
   - Python之外--[How to build an HTML calculator app from scratch using JavaScript](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/)
+
+- [day42](days\day42\day42.md)--2019.11.26
+  - Python标准库--dis
+  - Python好的文章[Python代码性能优化方法总结](https://hanfeng.ink/post/python_performance/)
+  - [Python代码片段](day42.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--[Geo Heatmap](https://github.com/luka1199/geo-heatmap)
+  - Python之外--[进程简介](https://hanfeng.ink/post/porcess/)
