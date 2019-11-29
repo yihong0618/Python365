@@ -93,8 +93,8 @@
     - [ ] http.server — Base Classes for Implementing Web Servers
     - [ ] http.cookies — HTTP Cookies
     - [ ] webbrowser — Displays web pages
-    - [ ] uuid — Universally Unique Identifiers
-    - [ ] json — JavaScript Object Notation
+    - [x] uuid — Universally Unique Identifiers
+    - [x] json — JavaScript Object Notation
     - [ ] xmlrpc.client — Client Library for XML-RPC
     - [ ] xmlrpc.server — An XML-RPC server
 - [ ] Email
@@ -567,3 +567,12 @@
   - Python框架相关--None
   - Python项目相关--[Geo Heatmap](https://github.com/luka1199/geo-heatmap)
   - Python之外--[进程简介](https://hanfeng.ink/post/porcess/)
+
+- [day43](days\day43\day43.md)--2019.11.29
+  - Python标准库--json
+  - Python好的文章[线程简介](https://hanfeng.ink/post/thread/)
+  - [Python代码片段](day43.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--None
+  - Python之外--[Git原理解析](https://hanfeng.ink/post/git_core/)
