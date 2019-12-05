@@ -1,5 +1,5 @@
 
-INTEGER, PLUS, EOF = "INTEGER", "PLUS", "EOL"
+INTEGER, PLUS, MINUS, EOF = "INTEGER", "PLUS", "MINUS", "EOL"
 
 
 class Token:
@@ -20,28 +20,48 @@ class Interpreter:
         self.text = text
         self.pos = 0
         self.current_token = None
+        self.current_char = text[self.pos]
 
     def error(self):
         raise Exception("Error parsing input")
 
-    def get_next_token(self):
-        
-        text = self.text
-        if self.pos > len(text) - 1:
-            return Token(EOF, None)
-
-        current_char = text[self.pos]
-
-        if current_char.isdigit():
-            self.pos += 1
-            return Token(INTEGER, int(current_char))
-        
-        elif current_char == "+":
-            self.pos += 1
-            return Token(PLUS, current_char)
-        
+    def advance(self):
+        self.pos += 1
+        if self.pos > len(self.text) - 1:
+            self.current_char = None
         else:
-            self.error()
+            self.current_char = self.text[self.pos]
+    
+    def integer(self):
+        result = ""
+        while self.current_char is not None and self.current_char.isdigit():
+            result += self.current_char
+            self.advance() 
+        return int(result)
+
+    def skip_whitespace(self):
+        while self.current_char is not None and self.current_char.isspace():
+            self.advance()
+
+    def get_next_token(self):
+        while self.current_char is not None:
+            if self.current_char.isspace():
+                self.skip_whitespace()
+
+            if self.current_char is None:
+                return(EOF, None)
+
+            if self.current_char.isdigit():
+                return Token(INTEGER, self.integer())
+            
+            elif self.current_char in ["+", "-"]:
+                op = self.current_char
+                self.advance()
+                return Token(PLUS, op)
+            
+            else:
+                self.error()
+        return Token(EOF, None)
 
     def eat(self, token_type):
         if self.current_token.type == token_type:
