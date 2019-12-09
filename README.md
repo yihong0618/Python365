@@ -594,3 +594,12 @@
   - Python框架相关--[Django优化](https://zhu327.github.io/2017/04/21/django-%E4%BC%98%E5%8C%96%E6%9D%82%E8%B0%88/)
   - Python项目相关--None
   - Python之外--[服务治理与RPC](https://zhu327.github.io/2018/03/24/%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E4%B8%8Erpc/)
+
+- [day47](days\day47\day47.md)--2019.12.09
+  - Python标准库--ast
+  - Python好的文章--[AST模块用Python修改Python代码](https://pycoders-weekly-chinese.readthedocs.io/en/latest/issue3/static-modification-of-python-with-python-the-ast-module.html)
+  - [Python代码片段](day47.py)
+  - Python读书--None
+  - Python框架相关--None
+  - Python项目相关--None
+  - Python之外--[leetcode的一篇博客](http://www.noteanddata.com/)
