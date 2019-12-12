@@ -121,7 +121,7 @@
     - [ ] pydoc — Online Help for Modules
     - [ ] doctest — Testing Through Documentation
     - [ ] unittest — Automated Testing Framework
-    - [ ] trace — Follow Program Flow
+    - [x] trace — Follow Program Flow
     - [ ] traceback — Exceptions and Stack Traces
     - [ ] cgitb — Detailed Traceback Reports
     - [ ] pdb — Interactive Debugger
@@ -612,3 +612,12 @@
   - Python框架相关--None
   - Python项目相关--[Python教育资源大全中文版](https://github.com/wwj718/awesome-python-in-education-zh)
   - Python之外--[putteteer教程](https://www.yuque.com/imhelloworld/share-day/xug9av)
+
+- [day50](days\day50\day50.md)--2019.12.13
+  - Python标准库--trace
+  - Python好的文章--[[Python]内建函数getattr()函数详解](https://www.vimiix.com/post/2017/07/10/Introduce-getattr-function/)
+  - [Python代码片段](day50.py)
+  - Python读书--《编码》
+  - Python框架相关--None
+  - Python项目相关--None
+  - Python之外--[排序算法之桶排序的深入理解以及性能分析](https://dailc.github.io/2016/12/03/baseKnowlenge_algorithm_sort_bucketSort.html)
