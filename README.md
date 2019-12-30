@@ -621,3 +621,12 @@
   - Python框架相关--None
   - Python项目相关--None
   - Python之外--[排序算法之桶排序的深入理解以及性能分析](https://dailc.github.io/2016/12/03/baseKnowlenge_algorithm_sort_bucketSort.html)
+
+- [day51](days\day51\day51.md)--2019.12.30
+  - Python标准库--None
+  - Python好的文章[如何在静态检查中表达 sentinel](https://blog.dreamfever.me/2019/10/17/ru-he-zai-jing-tai-jian-cha-zhong-biao-da-sentinel/)
+  - [Python代码片段](day51.py)
+  - Python读书--Problem Solving with Algorithms and Data Structures using Python--day2
+  - Python框架相关--[papurika](https://github.com/Hanaasagi/papurika)
+  - Python项目相关--None
+  - Python之外--[How to implement a programming language in JavaScript](http://lisperator.net/pltut/)
