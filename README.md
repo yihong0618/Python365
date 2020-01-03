@@ -639,3 +639,12 @@
   - Python框架相关--None
   - Python项目相关--None
   - Python之外--[我如何用三个月自学入门日语](http://numbbbbb.com/2016/07/04/20160704_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%89%E4%B8%AA%E6%9C%88%E5%85%A5%E9%97%A8%E6%97%A5%E8%AF%AD/)
+
+- [day53](days\day53\day53.md)--2020.01.03
+  - Python标准库--None
+  - Python好的文章[python源码剖析-数据结构](http://wklken.me/posts/2016/03/01/python-source-datastructure.html)
+  - [Python代码片段](day53.py)
+  - Python读书--None
+  - Python框架相关--[Django项目重构小结](http://wklken.me/posts/2018/12/06/python-refactor-django-project.html)
+  - Python项目相关--None
+  - Python之外--[操作系统 & 编译原理 学习攻略](https://hanfeng.ink/post/os_compiler_map/)
